@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Walkthrough"
+  short_description: "Audit, review, build, and compare project UI"
+  default_prompt: "Use $design-walkthrough to audit this project's screens, document findings and screenshots in an editable Excel workbook, and propose designs that follow the project's style for my review."
