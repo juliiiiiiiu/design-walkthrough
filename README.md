@@ -10,13 +10,13 @@ Design Walkthrough gives that work a repeatable process, with screenshots, edita
 
 ## See it in one review pass
 
-Compare the current screen with multiple design options. Choose a direction, annotate what should change, and return the workbook to your AI.
+Compare the current screen with multiple design options that preserve the same product palette. Choose a better layout, annotate what should change, and return the review to your AI.
 
 ![Current screen beside Design A and Design B, with a highlighted selection and a revision note.](docs/media/compare-landscape.png)
 
-Review all pages together. Approve some, request revisions on others, and keep each decision beside its screen.
+Review all pages together. Approve some, request revisions on others, and keep each decision beside its screen. The optional interactive review surface shown below collects page-level annotations and overall feedback, with one **Submit feedback** action at the bottom.
 
-![A three-screen review workbook showing Design A selected, Design B selected, and one row returned for revision with an annotation.](docs/media/review-landscape.png)
+![An eight-screen review with five approvals, three revision requests, editable annotations, overall feedback, and a Submit feedback button.](docs/media/review-landscape.png)
 
 *Illustrative examples using a fictional Daylight app. These images explain the workflow; they are not screenshots of an implemented product or a downloadable workbook.*
 
