@@ -8,6 +8,20 @@ Your app runs. The build passes. But a button disappears on mobile, the same act
 
 Design Walkthrough gives that work a repeatable process, with screenshots, editable decisions, and evidence of what was actually checked.
 
+## See it in one review pass
+
+Compare the current screen with multiple design options. Choose a direction, annotate what should change, and return the workbook to your AI.
+
+![Current screen beside Design A and Design B, with a highlighted selection and a revision note.](docs/media/compare-landscape.png)
+
+Review all pages together. Approve some, request revisions on others, and keep each decision beside its screen.
+
+![A three-screen review workbook showing Design A selected, Design B selected, and one row returned for revision with an annotation.](docs/media/review-landscape.png)
+
+*Illustrative examples using a fictional Daylight app. These images explain the workflow; they are not screenshots of an implemented product or a downloadable workbook.*
+
+Portrait versions: [Compare and choose](docs/media/compare-portrait.png) · [Review the whole app](docs/media/review-portrait.png).
+
 ## How it works
 
 1. **Learn your project.** Read its design system, components, tokens, brand guidance, and instructions. Use the product's own visual language as the starting point.
@@ -53,7 +67,8 @@ For a first review:
 ```text
 Use $design-walkthrough to review this project's main screens.
 Run the relevant existing lint checks, walk through the app, and create
-an editable Excel review with screenshots and proposed changes.
+an editable Excel review with screenshots and two design options per screen.
+Include editable choices and annotation fields so I can review everything together.
 Keep implementation for after I review the proposals.
 ```
 
